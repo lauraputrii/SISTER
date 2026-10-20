@@ -1,0 +1,15 @@
+﻿timestamp,network_condition,node_id,protocol,sequence_no,t_send_ms,suhu,status,success,latency_ms,payload_bytes,error
+2026-10-20T18:28:00.071+07:00,belum_diatur,mqtt-node-1,mqtt,1,1792495680040,25.3,PUBACK_RECEIVED,True,30.645,97,
+2026-10-20T18:28:01.107+07:00,belum_diatur,mqtt-node-1,mqtt,2,1792495681074,25.6,PUBACK_RECEIVED,True,32.413,97,
+2026-10-20T18:28:02.147+07:00,belum_diatur,mqtt-node-1,mqtt,3,1792495682115,25.9,PUBACK_RECEIVED,True,31.862,97,
+2026-10-20T18:28:03.199+07:00,belum_diatur,mqtt-node-1,mqtt,4,1792495683166,26.2,PUBACK_RECEIVED,True,32.34,97,
+2026-10-20T18:28:04.233+07:00,belum_diatur,mqtt-node-1,mqtt,5,1792495684201,26.5,PUBACK_RECEIVED,True,30.917,97,
+2026-10-20T18:28:05.266+07:00,belum_diatur,mqtt-node-1,mqtt,6,1792495685234,26.8,PUBACK_RECEIVED,True,31.613,97,
+2026-10-20T18:28:06.362+07:00,belum_diatur,mqtt-node-1,mqtt,7,1792495686285,27.1,PUBACK_RECEIVED,True,76.962,97,
+2026-10-20T18:28:17.445+07:00,belum_diatur,mqtt-node-1,mqtt,8,1792495687381,27.4,ACK_TIMEOUT,False,10064.066,97,Belum menerima pengakuan publish dalam 10 detik
+2026-10-20T18:28:27.956+07:00,belum_diatur,mqtt-node-1,mqtt,9,1792495698465,27.7,PUBACK_RECEIVED,True,9490.817,97,
+2026-10-20T18:28:29.004+07:00,belum_diatur,mqtt-node-1,mqtt,10,1792495708975,25.0,PUBACK_RECEIVED,True,29.572,98,
+2026-10-20T18:28:30.035+07:00,belum_diatur,mqtt-node-1,mqtt,11,1792495710006,25.3,PUBACK_RECEIVED,True,28.413,98,
+2026-10-20T18:28:31.065+07:00,belum_diatur,mqtt-node-1,mqtt,12,1792495711036,25.6,PUBACK_RECEIVED,True,28.691,98,
+2026-10-20T18:28:32.113+07:00,belum_diatur,mqtt-node-1,mqtt,13,1792495712084,25.9,PUBACK_RECEIVED,True,28.503,98,
+2026-10-20T18:28:33.160+07:00,belum_diatur,mqtt-node-1,mqtt,14,1792495713131,26.2,PUBACK_RECEIVED,True,28.312,98,

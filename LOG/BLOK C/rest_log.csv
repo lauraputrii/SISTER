@@ -1,0 +1,53 @@
+﻿timestamp,network_condition,node_id,protocol,sequence_no,t_send_ms,suhu,status,success,latency_ms,payload_bytes,error
+2026-10-20T18:11:32.770+07:00,belum_diatur,rest-node-1,rest,1,1792494692442,25.3,200,True,327.801,97,
+2026-10-20T18:11:33.945+07:00,belum_diatur,rest-node-1,rest,2,1792494693791,25.6,200,True,153.439,97,
+2026-10-20T18:11:35.117+07:00,belum_diatur,rest-node-1,rest,3,1792494694964,25.9,200,True,153.025,97,
+2026-10-20T18:11:36.278+07:00,belum_diatur,rest-node-1,rest,4,1792494696119,26.2,200,True,158.76,97,
+2026-10-20T18:11:37.518+07:00,belum_diatur,rest-node-1,rest,5,1792494697299,26.5,200,True,219.007,97,
+2026-10-20T18:11:38.741+07:00,belum_diatur,rest-node-1,rest,6,1792494698520,26.8,200,True,220.59,97,
+2026-10-20T18:11:39.923+07:00,belum_diatur,rest-node-1,rest,7,1792494699759,27.1,200,True,163.497,97,
+2026-10-20T18:11:41.080+07:00,belum_diatur,rest-node-1,rest,8,1792494700925,27.4,200,True,155.267,97,
+2026-10-20T18:11:42.236+07:00,belum_diatur,rest-node-1,rest,9,1792494702082,27.7,200,True,153.547,97,
+2026-10-20T18:11:43.505+07:00,belum_diatur,rest-node-1,rest,10,1792494703255,25.0,200,True,249.487,98,
+2026-10-20T18:11:44.748+07:00,belum_diatur,rest-node-1,rest,11,1792494704523,25.3,200,True,224.741,98,
+2026-10-20T18:11:45.913+07:00,belum_diatur,rest-node-1,rest,12,1792494705751,25.6,200,True,162.282,98,
+2026-10-20T18:11:47.087+07:00,belum_diatur,rest-node-1,rest,13,1792494706915,25.9,200,True,171.539,98,
+2026-10-20T18:11:48.264+07:00,belum_diatur,rest-node-1,rest,14,1792494708106,26.2,200,True,157.686,98,
+2026-10-20T18:11:49.506+07:00,belum_diatur,rest-node-1,rest,15,1792494709283,26.5,200,True,222.238,98,
+2026-10-20T18:11:50.688+07:00,belum_diatur,rest-node-1,rest,16,1792494710508,26.8,200,True,179.491,98,
+2026-10-20T18:11:51.866+07:00,belum_diatur,rest-node-1,rest,17,1792494711707,27.1,200,True,158.641,98,
+2026-10-20T18:11:53.098+07:00,belum_diatur,rest-node-1,rest,18,1792494712885,27.4,200,True,212.669,98,
+2026-10-20T18:11:54.267+07:00,belum_diatur,rest-node-1,rest,19,1792494714099,27.7,200,True,167.556,98,
+2026-10-20T18:11:55.436+07:00,belum_diatur,rest-node-1,rest,20,1792494715269,25.0,200,True,167.01,98,
+2026-10-20T18:11:56.640+07:00,belum_diatur,rest-node-1,rest,21,1792494716455,25.3,200,True,184.299,98,
+2026-10-20T18:11:57.789+07:00,belum_diatur,rest-node-1,rest,22,1792494717642,25.6,200,True,147.052,98,
+2026-10-20T18:11:58.996+07:00,belum_diatur,rest-node-1,rest,23,1792494718792,25.9,200,True,203.576,98,
+2026-10-20T18:12:00.223+07:00,belum_diatur,rest-node-1,rest,24,1792494719999,26.2,200,True,224.085,98,
+2026-10-20T18:12:01.456+07:00,belum_diatur,rest-node-1,rest,25,1792494721241,26.5,200,True,214.472,98,
+2026-10-20T18:12:02.619+07:00,belum_diatur,rest-node-1,rest,26,1792494722457,26.8,200,True,161.53,98,
+2026-10-20T18:12:03.881+07:00,belum_diatur,rest-node-1,rest,27,1792494723620,27.1,200,True,260.348,98,
+2026-10-20T18:12:05.104+07:00,belum_diatur,rest-node-1,rest,28,1792494724899,27.4,200,True,204.441,98,
+2026-10-20T18:12:06.268+07:00,belum_diatur,rest-node-1,rest,29,1792494726105,27.7,200,True,161.999,98,
+2026-10-20T18:12:07.446+07:00,belum_diatur,rest-node-1,rest,30,1792494727287,25.0,200,True,159.469,98,
+2026-10-20T18:12:08.664+07:00,belum_diatur,rest-node-1,rest,31,1792494728465,25.3,200,True,198.043,98,
+2026-10-20T18:12:09.882+07:00,belum_diatur,rest-node-1,rest,32,1792494729667,25.6,200,True,214.784,98,
+2026-10-20T18:12:11.106+07:00,belum_diatur,rest-node-1,rest,33,1792494730884,25.9,200,True,222.429,98,
+2026-10-20T18:12:12.285+07:00,belum_diatur,rest-node-1,rest,34,1792494732124,26.2,200,True,159.88,98,
+2026-10-20T18:12:13.569+07:00,belum_diatur,rest-node-1,rest,35,1792494733304,26.5,200,True,264.523,98,
+2026-10-20T18:12:14.813+07:00,belum_diatur,rest-node-1,rest,36,1792494734586,26.8,200,True,227.327,98,
+2026-10-20T18:12:15.984+07:00,belum_diatur,rest-node-1,rest,37,1792494735832,27.1,200,True,152.475,98,
+2026-10-20T18:12:17.164+07:00,belum_diatur,rest-node-1,rest,38,1792494737004,27.4,200,True,159.777,98,
+2026-10-20T18:12:18.382+07:00,belum_diatur,rest-node-1,rest,39,1792494738165,27.7,200,True,216.976,98,
+2026-10-20T18:12:19.561+07:00,belum_diatur,rest-node-1,rest,40,1792494739402,25.0,200,True,159.28,98,
+2026-10-20T18:12:20.723+07:00,belum_diatur,rest-node-1,rest,41,1792494740563,25.3,200,True,159.228,98,
+2026-10-20T18:12:21.892+07:00,belum_diatur,rest-node-1,rest,42,1792494741724,25.6,200,True,167.173,98,
+2026-10-20T18:12:23.150+07:00,belum_diatur,rest-node-1,rest,43,1792494742910,25.9,200,True,239.785,98,
+2026-10-20T18:12:24.325+07:00,belum_diatur,rest-node-1,rest,44,1792494744169,26.2,200,True,155.895,98,
+2026-10-20T18:12:25.496+07:00,belum_diatur,rest-node-1,rest,45,1792494745327,26.5,502,False,168.705,98,"<!DOCTYPE html>
+<html class=""h-full"" lang=""en-US"" dir=""ltr"">
+  <head>
+    <meta charset=""utf-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+    <link rel=""preload"" href=""https://assets.ngrok.com/fonts/euclid-square/EuclidSquare-Regular-WebS.woff"" as=""font"" type=""font/woff"" crossorigin=""anonymous"" />
+    <link rel=""preload"" href=""https://assets.ngrok.com/fonts/euclid-square/EuclidSquare-RegularItalic-WebS.woff"" as=""font"" type=""font/woff"" crossorigin=""anonymous"" />
+  "
